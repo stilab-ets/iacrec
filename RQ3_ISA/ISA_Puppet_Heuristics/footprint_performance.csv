@@ -1,0 +1,4 @@
+Row,Area_Good_Normalized,Density_Good_Normalized,Purity_Good,Area_Best_Normalized,Density_Best_Normalized,Purity_Best
+GA,0.549,1.123,1,0.181,1.008,0.992
+HIST,0.193,1.567,0.98,0.1,1.563,0.976
+SIM,0.162,1.694,0.981,0.1,2.513,0.997
