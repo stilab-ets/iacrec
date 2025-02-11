@@ -31,6 +31,6 @@ control-repo,Percentage of outliers out of all data points:,0.392156863
 control-repo,Percentage of outliers greater than 15 out of all outliers:,6.666666667
 control-repo,Average number of files per commit in all IaC commits,5.952941176
 control-repo,Standard deviation of files per commit in aC commits,11.67226933
-control-repo,IaC files change in % of commits,37.6661743control-repo
+control-repo,IaC files change in % of commits,37.6661743
 control-repo,Standard deviation of files per commit in Non-IaC commits:,3.517102318
 control-repo,Average number of files per commit in Non-IaC commits:,1.516129032
