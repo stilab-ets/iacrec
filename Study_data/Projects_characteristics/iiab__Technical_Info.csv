@@ -1,0 +1,36 @@
+Project,Technical_Info,Value
+,,
+iiab,Number of stars:,789
+iiab,Number of forks:,75
+iiab,Created at:,2017-05-28 14:28
+iiab,Updated at:,2023-07-12 16:47
+iiab,Number of open pull requests:,17
+iiab,Number of closed pull requests:,2240
+iiab,Number of pull requests:,2257
+iiab,Number of contributors:,22
+iiab,Number of developers (excluding bots):,23
+iiab,number of commits:,12134
+iiab,Number of ansible files in all commits history:,496
+iiab,Number of other files in all commits history:,1155
+iiab,Average number of files per commit in 90%:,3.096551724
+iiab,Standard deviation of files per commit in 90%:,8.240206199
+iiab,Average number of files per commit in 10%:,3.203991131
+iiab,Standard deviation of files per commit in 10%:,4.382600146
+iiab,Average count of other files in 90%:,0.496059113
+iiab,Standard deviation of other files in 90%:,4.981635082
+iiab,Average count of iac files in 90%:,1.048275862
+iiab,Standard deviation of iac files in 90%:,4.84616248
+iiab,Average count of other files in 10%:,0.494456763
+iiab,Standard deviation of other files in 10%:,1.795510538
+iiab,Average count of iac files in 10%:,1.101995565
+iiab,Standard deviation of iac files in 10%:,2.943533783
+iiab,Number of IaC commits:,4511
+iiab,number of iac files in last project version:,275
+iiab,number of non-iac files in last project version:,501
+iiab,Percentage of outliers out of all data points:,0.022168034
+iiab,Percentage of outliers greater than 15 out of all outliers:,1.396586123
+iiab,Average number of files per commit in IaC commits,3.107293283
+iiab,Standard deviation of files per commit in IaC commits,7.939042569
+iiab,IaC files change in % of commits,37.17652876
+iiab,Standard deviation of files per commit in Non-IaC commits:,0.660759226
+iiab,Average number of files per commit in Non-IaC commits:,1.128746929

@@ -1,0 +1,36 @@
+Project,Technical_Info,Value
+,,
+ansible-hardening,Number of stars:,637
+ansible-hardening,Number of forks:,141
+ansible-hardening,Created at:,2017-05-26 07:48
+ansible-hardening,Updated at:,2023-07-03 11:24
+ansible-hardening,Number of open pull requests:,0
+ansible-hardening,Number of closed pull requests:,9
+ansible-hardening,Number of pull requests:,9
+ansible-hardening,Number of contributors:,44
+ansible-hardening,Number of developers (excluding bots):,44
+ansible-hardening,number of commits:,1025
+ansible-hardening,Number of ansible files in all commits history:,66
+ansible-hardening,Number of other files in all commits history:,135
+ansible-hardening,Average number of files per commit in 90%:,4.094890511
+ansible-hardening,Standard deviation of files per commit in 90%:,3.701070455
+ansible-hardening,Average number of files per commit in 10%:,4.322580645
+ansible-hardening,Standard deviation of files per commit in 10%:,4.284756677
+ansible-hardening,Average count of other files in 90%:,1.204379562
+ansible-hardening,Standard deviation of other files in 90%:,1.779569385
+ansible-hardening,Average count of iac files in 90%:,1.547445255
+ansible-hardening,Standard deviation of iac files in 90%:,2.165782776
+ansible-hardening,Average count of other files in 10%:,1
+ansible-hardening,Standard deviation of other files in 10%:,1.825741858
+ansible-hardening,Average count of iac files in 10%:,1.661290323
+ansible-hardening,Standard deviation of iac files in 10%:,2.541095339
+ansible-hardening,Number of IaC commits:,305
+ansible-hardening,number of iac files in last project version:,21
+ansible-hardening,number of non-iac files in last project version:,111
+ansible-hardening,Percentage of outliers out of all data points:,0.327868852
+ansible-hardening,Percentage of outliers greater than 15 out of all outliers:,2.950819672
+ansible-hardening,Average number of files per commit in IaC commits,4.118032787
+ansible-hardening,Standard deviation of files per commit in IaC commits,3.757339668
+ansible-hardening,IaC files change in % of commits,29.75609756
+ansible-hardening,Standard deviation of files per commit in Non-IaC commits:,1.117541852
+ansible-hardening,Average number of files per commit in Non-IaC commits:,1.550898204

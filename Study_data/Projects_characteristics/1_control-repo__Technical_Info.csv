@@ -1,0 +1,36 @@
+Project,Technical_Info,Value
+,,
+control-repo,Number of stars:,10
+control-repo,Number of forks:,35
+control-repo,Created at:,2017-05-08 21:52
+control-repo,Updated at:,2023-02-09 19:26
+control-repo,Number of open pull requests:,5
+control-repo,Number of closed pull requests:,223
+control-repo,Number of pull requests:,228
+control-repo,Number of contributors:,27
+control-repo,Number of developers (excluding bots):,26
+control-repo,number of commits:,677
+control-repo,Number of puppet files in all commits history:,448
+control-repo,Number of other files in all commits history:,197
+control-repo,Average number of files per commit in 90%:,5.908296943
+control-repo,Standard deviation of files per commit in 90%:,12.01261658
+control-repo,Average number of files per commit in 10%:,6.346153846
+control-repo,Standard deviation of files per commit in 10%:,8.245931398
+control-repo,Average count of other files in 90%:,1.008733624
+control-repo,Standard deviation of other files in 90%:,2.757750269
+control-repo,Average count of iac files in 90%:,2.454148472
+control-repo,Standard deviation of iac files in 90%:,7.502521402
+control-repo,Average count of other files in 10%:,2.230769231
+control-repo,Standard deviation of other files in 10%:,3.901873317
+control-repo,Average count of iac files in 10%:,2.673076923
+control-repo,Standard deviation of iac files in 10%:,5.926746136
+control-repo,Number of IaC commits:,255
+control-repo,number of iac files in last project version:,129
+control-repo,number of non-iac files in last project version:,90
+control-repo,Percentage of outliers out of all data points:,0.392156863
+control-repo,Percentage of outliers greater than 15 out of all outliers:,6.666666667
+control-repo,Average number of files per commit in all IaC commits,5.952941176
+control-repo,Standard deviation of files per commit in aC commits,11.67226933
+control-repo,IaC files change in % of commits,37.6661743control-repo
+control-repo,Standard deviation of files per commit in Non-IaC commits:,3.517102318
+control-repo,Average number of files per commit in Non-IaC commits:,1.516129032

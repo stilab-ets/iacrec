@@ -1,0 +1,36 @@
+Project,Technical_Info,Value
+,,
+matrix-docker-ansible-deploy,Number of stars:,4055
+matrix-docker-ansible-deploy,Number of forks:,933
+matrix-docker-ansible-deploy,Created at:,2017-07-31 20:09
+matrix-docker-ansible-deploy,Updated at:,2023-07-11 19:54
+matrix-docker-ansible-deploy,Number of open pull requests:,26
+matrix-docker-ansible-deploy,Number of closed pull requests:,1615
+matrix-docker-ansible-deploy,Number of pull requests:,1641
+matrix-docker-ansible-deploy,Number of contributors:,317
+matrix-docker-ansible-deploy,Number of developers (excluding bots):,317
+matrix-docker-ansible-deploy,number of commits:,6351
+matrix-docker-ansible-deploy,Number of ansible files in all commits history:,1202
+matrix-docker-ansible-deploy,Number of other files in all commits history:,599
+matrix-docker-ansible-deploy,Average number of files per commit in 90%:,8.877391304
+matrix-docker-ansible-deploy,Standard deviation of files per commit in 90%:,32.13883763
+matrix-docker-ansible-deploy,Average number of files per commit in 10%:,6.2421875
+matrix-docker-ansible-deploy,Standard deviation of files per commit in 10%:,9.643035179
+matrix-docker-ansible-deploy,Average count of other files in 90%:,2.226086957
+matrix-docker-ansible-deploy,Standard deviation of other files in 90%:,9.645736053
+matrix-docker-ansible-deploy,Average count of iac files in 90%:,3.938695652
+matrix-docker-ansible-deploy,Standard deviation of iac files in 90%:,18.547077
+matrix-docker-ansible-deploy,Average count of other files in 10%:,2.046875
+matrix-docker-ansible-deploy,Standard deviation of other files in 10%:,2.493643494
+matrix-docker-ansible-deploy,Average count of iac files in 10%:,2.62109375
+matrix-docker-ansible-deploy,Standard deviation of iac files in 10%:,6.511602343
+matrix-docker-ansible-deploy,Number of IaC commits:,1278
+matrix-docker-ansible-deploy,number of iac files in last project version:,349
+matrix-docker-ansible-deploy,number of non-iac files in last project version:,249
+matrix-docker-ansible-deploy,Percentage of outliers out of all data points:,0.078247261
+matrix-docker-ansible-deploy,Percentage of outliers greater than 15 out of all outliers:,7.746478873
+matrix-docker-ansible-deploy,Average number of files per commit in IaC commits,8.613458529
+matrix-docker-ansible-deploy,Standard deviation of files per commit in IaC commits,30.64711939
+matrix-docker-ansible-deploy,IaC files change in % of commits,20.1228153
+matrix-docker-ansible-deploy,Standard deviation of files per commit in Non-IaC commits:,2.13155701
+matrix-docker-ansible-deploy,Average number of files per commit in Non-IaC commits:,1.442544732

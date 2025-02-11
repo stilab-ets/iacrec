@@ -1,0 +1,36 @@
+Project,Technical_Info,Value
+,,
+ansible-nas,Number of stars:,2513
+ansible-nas,Number of forks:,426
+ansible-nas,Created at:,2017-08-28 15:13
+ansible-nas,Updated at:,2023-07-12 17:44
+ansible-nas,Number of open pull requests:,54
+ansible-nas,Number of closed pull requests:,370
+ansible-nas,Number of pull requests:,424
+ansible-nas,Number of contributors:,66
+ansible-nas,Number of developers (excluding bots):,66
+ansible-nas,number of commits:,1414
+ansible-nas,Number of ansible files in all commits history:,545
+ansible-nas,Number of other files in all commits history:,188
+ansible-nas,Average number of files per commit in 90%:,5.01
+ansible-nas,Standard deviation of files per commit in 90%:,12.80311287
+ansible-nas,Average number of files per commit in 10%:,18.53333333
+ansible-nas,Standard deviation of files per commit in 10%:,38.12813325
+ansible-nas,Average count of other files in 90%:,1.43
+ansible-nas,Standard deviation of other files in 90%:,4.367239626
+ansible-nas,Average count of iac files in 90%:,2.005
+ansible-nas,Standard deviation of iac files in 90%:,7.530827757
+ansible-nas,Average count of other files in 10%:,1.422222222
+ansible-nas,Standard deviation of other files in 10%:,3.82865327
+ansible-nas,Average count of iac files in 10%:,8.766666667
+ansible-nas,Standard deviation of iac files in 10%:,26.70860233
+ansible-nas,Number of IaC commits:,445
+ansible-nas,number of iac files in last project version:,446
+ansible-nas,number of non-iac files in last project version:,172
+ansible-nas,Percentage of outliers out of all data points:,0.224719101
+ansible-nas,Percentage of outliers greater than 15 out of all outliers:,5.393258427
+ansible-nas,Average number of files per commit in IaC commits,6.37752809
+ansible-nas,Standard deviation of files per commit in IaC commits,17.550864
+ansible-nas,IaC files change in % of commits,31.47100424
+ansible-nas,Standard deviation of files per commit in Non-IaC commits:,1.832539501
+ansible-nas,Average number of files per commit in Non-IaC commits:,1.285123967

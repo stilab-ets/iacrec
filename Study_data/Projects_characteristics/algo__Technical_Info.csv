@@ -1,0 +1,37 @@
+Project,Technical_Info,Value
+,,
+algo,Number of stars:,27418
+algo,Number of forks:,2281
+algo,Created at:,2016-05-15 03:42
+algo,Updated at:,2023-07-12 16:21
+algo,Number of open pull requests:,14
+algo,Number of closed pull requests:,673
+algo,Number of pull requests:,687
+algo,Number of contributors:,166
+algo,Number of developers (excluding bots):,165
+algo,number of commits:,1128
+algo,Number of ansible files in all commits history:,130
+algo,Number of other files in all commits history:,198
+algo,Average number of files per commit in 90%:,5.865517241
+algo,Standard deviation of files per commit in 90%:,8.254547907
+algo,Average number of files per commit in 10%:,6.636363636
+algo,Standard deviation of files per commit in 10%:,10.03686387
+algo,Average count of other files in 90%:,2.1
+algo,Standard deviation of other files in 90%:,4.01730685
+algo,Average count of iac files in 90%:,2.432758621
+algo,Standard deviation of iac files in 90%:,4.410769045
+algo,Average count of other files in 10%:,2.333333333
+algo,Standard deviation of other files in 10%:,2.757565351
+algo,Average count of iac files in 10%:,2.818181818
+algo,Standard deviation of iac files in 10%:,5.893697001
+algo,Number of IaC commits:,323
+algo,number of iac files in last project version:,77
+algo,number of non-iac files in last project version:,87
+algo,Percentage of outliers out of all data points:,0.309597523
+algo,Percentage of outliers greater than 15 out of all outliers:,6.191950464
+algo,Average number of files per commit in IaC commits,5.944272446
+algo,Standard deviation of files per commit in IaC commits,8.439223144
+algo,IaC files change in % of commits,28.63475177
+algo,Average number of files per commit in Non-IaC commits:,1.721264368
+algo,Standard deviation of files per commit in Non-IaC commits:,1.941480053
+algo,Average number of files per commit in Non-IaC commits:,1.721264368

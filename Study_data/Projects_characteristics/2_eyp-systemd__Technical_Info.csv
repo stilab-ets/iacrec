@@ -1,0 +1,36 @@
+Project,Technical_Info,Value
+,,
+eyp-systemd,Number of stars:,14
+eyp-systemd,Number of forks:,27
+eyp-systemd,Created at:,2015-12-16 12:51
+eyp-systemd,Updated at:,2021-09-09 12:30
+eyp-systemd,Number of open pull requests:,2
+eyp-systemd,Number of closed pull requests:,142
+eyp-systemd,Number of pull requests:,144
+eyp-systemd,Number of contributors:,16
+eyp-systemd,Number of developers (excluding bots):,16
+eyp-systemd,number of commits:,582
+eyp-systemd,Number of puppet files in all commits history:,33
+eyp-systemd,Number of other files in all commits history:,54
+eyp-systemd,Average number of files per commit in 90%:,3.100502513
+eyp-systemd,Standard deviation of files per commit in 90%:,1.49069496
+eyp-systemd,Average number of files per commit in 10%:,3.545454545
+eyp-systemd,Standard deviation of files per commit in 10%:,2.132007164
+eyp-systemd,Average count of other files in 90%:,0.728643216
+eyp-systemd,Standard deviation of other files in 90%:,0.946409306
+eyp-systemd,Average count of iac files in 90%:,1.050251256
+eyp-systemd,Standard deviation of iac files in 90%:,1.039515212
+eyp-systemd,Average count of other files in 10%:,0.636363636
+eyp-systemd,Standard deviation of other files in 10%:,1.002162165
+eyp-systemd,Average count of iac files in 10%:,1.272727273
+eyp-systemd,Standard deviation of iac files in 10%:,1.53052106
+eyp-systemd,Number of IaC commits:,221
+eyp-systemd,number of iac files in last project version:,29
+eyp-systemd,number of non-iac files in last project version:,56
+eyp-systemd,Percentage of outliers out of all data points:,0.452488688
+eyp-systemd,Percentage of outliers greater than 15 out of all outliers:,0
+eyp-systemd,Average number of files per commit in IaC commits,3.14479638
+eyp-systemd,Standard deviation of files per commit in IaC commits,1.565779672
+eyp-systemd,IaC files change in % of commits,37.97250859
+eyp-systemd,Average number of files per commit in Non-IaC commits:,1.385964912
+eyp-systemd,Standard deviation of files per commit in Non-IaC commits:,1.03486797

@@ -1,0 +1,36 @@
+Project,Technical_Info,Value
+,,
+talend-cloud-installer,Number of stars:,7
+talend-cloud-installer,Number of forks:,7
+talend-cloud-installer,Created at:,2016-04-07 10:07
+talend-cloud-installer,Updated at:,2022-11-24 10:20
+talend-cloud-installer,Number of open pull requests:,14
+talend-cloud-installer,Number of closed pull requests:,349
+talend-cloud-installer,Number of pull requests:,363
+talend-cloud-installer,Number of contributors:,32
+talend-cloud-installer,Number of developers (excluding bots):,32
+talend-cloud-installer,number of commits:,1667
+talend-cloud-installer,Number of puppet files in all commits history:,116
+talend-cloud-installer,Number of other files in all commits history:,707
+talend-cloud-installer,Average number of files per commit in 90%:,5.669811321
+talend-cloud-installer,Standard deviation of files per commit in 90%:,30.6075507
+talend-cloud-installer,Average number of files per commit in 10%:,4.765957447
+talend-cloud-installer,Standard deviation of files per commit in 10%:,4.006585698
+talend-cloud-installer,Average count of other files in 90%:,3.181603774
+talend-cloud-installer,Standard deviation of other files in 90%:,29.89069989
+talend-cloud-installer,Average count of iac files in 90%:,2.33490566
+talend-cloud-installer,Standard deviation of iac files in 90%:,21.16028912
+talend-cloud-installer,Average count of other files in 10%:,2.255319149
+talend-cloud-installer,Standard deviation of other files in 10%:,2.816628304
+talend-cloud-installer,Average count of iac files in 10%:,1.882978723
+talend-cloud-installer,Standard deviation of iac files in 10%:,2.256919506
+talend-cloud-installer,Number of IaC commits:,471
+talend-cloud-installer,number of iac files in last project version:,84
+talend-cloud-installer,number of non-iac files in last project version:,123
+talend-cloud-installer,Percentage of outliers out of all data points:,0.212314225
+talend-cloud-installer,Percentage of outliers greater than 15 out of all outliers:,1.486199575
+talend-cloud-installer,Average number of files per commit in IaC commits,5.579617834
+talend-cloud-installer,Standard deviation of files per commit in IaC commits,29.06517856
+talend-cloud-installer,IaC files change in % of commits,28.25434913
+talend-cloud-installer,Standard deviation of files per commit in Non-IaC commits:,1.990727421
+talend-cloud-installer,Average number of files per commit in Non-IaC commits:,1.559716599

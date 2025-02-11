@@ -1,0 +1,36 @@
+Project,Technical_Info,Value
+,,
+secure_windows,Number of stars:,9
+secure_windows,Number of forks:,5
+secure_windows,Created at:,2018-01-22 18:53
+secure_windows,Updated at:,2021-07-03 03:30
+secure_windows,Number of open pull requests:,0
+secure_windows,Number of closed pull requests:,6
+secure_windows,Number of pull requests:,6
+secure_windows,Number of contributors:,3
+secure_windows,Number of developers (excluding bots):,4
+secure_windows,number of commits:,1016
+secure_windows,Number of puppet files in all commits history:,278
+secure_windows,Number of other files in all commits history:,121
+secure_windows,Average number of files per commit in 90%:,3.487106017
+secure_windows,Standard deviation of files per commit in 90%:,4.792592457
+secure_windows,Average number of files per commit in 10%:,4.41025641
+secure_windows,Standard deviation of files per commit in 10%:,7.669893119
+secure_windows,Average count of other files in 90%:,0.315186246
+secure_windows,Standard deviation of other files in 90%:,0.942803219
+secure_windows,Average count of iac files in 90%:,1.243553009
+secure_windows,Standard deviation of iac files in 90%:,3.432605075
+secure_windows,Average count of other files in 10%:,0.948717949
+secure_windows,Standard deviation of other files in 10%:,2.874101397
+secure_windows,Average count of iac files in 10%:,1.705128205
+secure_windows,Standard deviation of iac files in 10%:,4.654585714
+secure_windows,Number of IaC commits:,388
+secure_windows,number of iac files in last project version:,255
+secure_windows,number of non-iac files in last project version:,67
+secure_windows,Percentage of outliers out of all data points:,0.257731959
+secure_windows,Percentage of outliers greater than 15 out of all outliers:,3.608247423
+secure_windows,Average number of files per commit in IaC commits,3.579896907
+secure_windows,Standard deviation of files per commit in IaC commits,5.148573771
+secure_windows,IaC files change in % of commits,38.18897638
+secure_windows,Standard deviation of files per commit in Non-IaC commits:,1.568888012
+secure_windows,Average number of files per commit in Non-IaC commits:,1.334572491

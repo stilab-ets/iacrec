@@ -1,0 +1,36 @@
+Project,Technical_Info,Value
+,,
+puppet-tripleo,Number of stars:,45
+puppet-tripleo,Number of forks:,50
+puppet-tripleo,Created at:,2015-02-06 06:42
+puppet-tripleo,Updated at:,2023-04-03 11:29
+puppet-tripleo,Number of open pull requests:,0
+puppet-tripleo,Number of closed pull requests:,2
+puppet-tripleo,Number of pull requests:,2
+puppet-tripleo,Number of contributors:,173
+puppet-tripleo,Number of developers (excluding bots):,173
+puppet-tripleo,number of commits:,3817
+puppet-tripleo,Number of puppet files in all commits history:,441
+puppet-tripleo,Number of other files in all commits history:,609
+puppet-tripleo,Average number of files per commit in 90%:,4.231691919
+puppet-tripleo,Standard deviation of files per commit in 90%:,9.690275197
+puppet-tripleo,Average number of files per commit in 10%:,4.545454545
+puppet-tripleo,Standard deviation of files per commit in 10%:,5.872763459
+puppet-tripleo,Average count of other files in 90%:,0.760732323
+puppet-tripleo,Standard deviation of other files in 90%:,2.102298106
+puppet-tripleo,Average count of iac files in 90%:,1.61584596
+puppet-tripleo,Standard deviation of iac files in 90%:,6.325590802
+puppet-tripleo,Average count of other files in 10%:,0.778409091
+puppet-tripleo,Standard deviation of other files in 10%:,1.727687066
+puppet-tripleo,Average count of iac files in 10%:,1.772727273
+puppet-tripleo,Standard deviation of iac files in 10%:,3.898943601
+puppet-tripleo,Number of IaC commits:,1760
+puppet-tripleo,number of iac files in last project version:,207
+puppet-tripleo,number of non-iac files in last project version:,463
+puppet-tripleo,Percentage of outliers out of all data points:,0.056818182
+puppet-tripleo,Percentage of outliers greater than 15 out of all outliers:,2.727272727
+puppet-tripleo,Average number of files per commit in IaC commits,4.263068182
+puppet-tripleo,Standard deviation of files per commit in IaC commits,9.377958489
+puppet-tripleo,IaC files change in % of commits,46.10951009
+puppet-tripleo,Standard deviation of files per commit in Non-IaC commits:,8.315234973
+puppet-tripleo,Average number of files per commit in Non-IaC commits:,2.103333333

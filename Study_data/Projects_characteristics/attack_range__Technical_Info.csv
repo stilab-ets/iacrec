@@ -1,0 +1,36 @@
+Project,Technical_Info,Value
+,,
+attack_range,Number of stars:,1703
+attack_range,Number of forks:,298
+attack_range,Created at:,2019-05-04 02:46
+attack_range,Updated at:,2023-07-11 21:46
+attack_range,Number of open pull requests:,1
+attack_range,Number of closed pull requests:,588
+attack_range,Number of pull requests:,589
+attack_range,Number of contributors:,39
+attack_range,Number of developers (excluding bots):,37
+attack_range,number of commits:,1860
+attack_range,Number of ansible files in all commits history:,425
+attack_range,Number of other files in all commits history:,756
+attack_range,Average number of files per commit in 90%:,10.3490566
+attack_range,Standard deviation of files per commit in 90%:,23.58996838
+attack_range,Average number of files per commit in 10%:,5.694444444
+attack_range,Standard deviation of files per commit in 10%:,6.16357709
+attack_range,Average count of other files in 90%:,5.889937107
+attack_range,Standard deviation of other files in 90%:,14.8395358
+attack_range,Average count of iac files in 90%:,4.674528302
+attack_range,Standard deviation of iac files in 90%:,12.555742
+attack_range,Average count of other files in 10%:,2.666666667
+attack_range,Standard deviation of other files in 10%:,5.656854249
+attack_range,Average count of iac files in 10%:,2.347222222
+attack_range,Standard deviation of iac files in 10%:,4.15935979
+attack_range,Number of IaC commits:,354
+attack_range,number of iac files in last project version:,200
+attack_range,number of non-iac files in last project version:,244
+attack_range,Percentage of outliers out of all data points:,0.282485876
+attack_range,Percentage of outliers greater than 15 out of all outliers:,6.779661017
+attack_range,Average number of files per commit in IaC commits,9.875706215
+attack_range,Standard deviation of files per commit in IaC commits,22.48301412
+attack_range,IaC files change in % of commits,19.03225806
+attack_range,Standard deviation of files per commit in Non-IaC commits:,4.270233306
+attack_range,Average number of files per commit in Non-IaC commits:,2.069148936

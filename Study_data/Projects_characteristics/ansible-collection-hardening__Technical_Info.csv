@@ -1,0 +1,36 @@
+Project,Technical_Info,Value
+,,
+ansible-collection-hardening,Number of stars:,3286
+ansible-collection-hardening,Number of forks:,651
+ansible-collection-hardening,Created at:,2015-05-04 18:26
+ansible-collection-hardening,Updated at:,2023-07-11 13:32
+ansible-collection-hardening,Number of open pull requests:,7
+ansible-collection-hardening,Number of closed pull requests:,433
+ansible-collection-hardening,Number of pull requests:,440
+ansible-collection-hardening,Number of contributors:,139
+ansible-collection-hardening,Number of developers (excluding bots):,139
+ansible-collection-hardening,Number of commits:,1998
+ansible-collection-hardening,Number of ansible files in all commits history:,86
+ansible-collection-hardening,Number of other files in all commits history:,302
+ansible-collection-hardening,Average number of files per commit in 90%:,4.440540541
+ansible-collection-hardening,Standard deviation of files per commit in 90%:,5.8830499
+ansible-collection-hardening,Average number of files per commit in 10%:,5.69047619
+ansible-collection-hardening,Standard deviation of files per commit in 10%:,4.507381995
+ansible-collection-hardening,Average count of other files in 90%:,1.705405405
+ansible-collection-hardening,Standard deviation of other files in 90%:,3.756435919
+ansible-collection-hardening,Average count of iac files in 90%:,1.72027027
+ansible-collection-hardening,Standard deviation of iac files in 90%:,3.369668082
+ansible-collection-hardening,Average count of other files in 10%:,2.833333333
+ansible-collection-hardening,Standard deviation of other files in 10%:,3.553882567
+ansible-collection-hardening,Average count of iac files in 10%:,2.345238095
+ansible-collection-hardening,Standard deviation of iac files in 10%:,2.999976095
+ansible-collection-hardening,Number of IaC commits:,412
+ansible-collection-hardening,number of iac files in last project version:,39
+ansible-collection-hardening,number of non-iac files in last project version:,148
+ansible-collection-hardening,Percentage of outliers out of all data points:,0.242718447
+ansible-collection-hardening,Percentage of outliers greater than 15 out of all outliers:,3.398058252
+ansible-collection-hardening,Average number of files per commit in IaC commits,4.567961165
+ansible-collection-hardening,Standard deviation of files per commit in IaC commits,5.76572157
+ansible-collection-hardening,IaC files change in % of commits,20.62062062
+ansible-collection-hardening,Standard deviation of files per commit in Non-IaC commits:,2.05897672
+ansible-collection-hardening,Average number of files per commit in Non-IaC commits:,1.916073969

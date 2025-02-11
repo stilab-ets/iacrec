@@ -1,0 +1,36 @@
+Project,Technical_Info,Value
+,,
+postgresql_cluster,Number of stars:,850
+postgresql_cluster,Number of forks:,261
+postgresql_cluster,Created at:,2019-06-04 13:26
+postgresql_cluster,Updated at:,2023-07-09 08:56
+postgresql_cluster,Number of open pull requests:,1
+postgresql_cluster,Number of closed pull requests:,126
+postgresql_cluster,Number of pull requests:,127
+postgresql_cluster,Number of contributors:,27
+postgresql_cluster,Number of developers (excluding bots):,26
+postgresql_cluster,number of commits:,856
+postgresql_cluster,Number of ansible files in all commits history:,164
+postgresql_cluster,Number of other files in all commits history:,160
+postgresql_cluster,Average number of files per commit in 90%:,5.020761246
+postgresql_cluster,Standard deviation of files per commit in 90%:,10.65557291
+postgresql_cluster,Average number of files per commit in 10%:,7.09375
+postgresql_cluster,Standard deviation of files per commit in 10%:,8.73760643
+postgresql_cluster,Average count of other files in 90%:,1.273356401
+postgresql_cluster,Standard deviation of other files in 90%:,3.801226431
+postgresql_cluster,Average count of iac files in 90%:,2.010380623
+postgresql_cluster,Standard deviation of iac files in 90%:,6.135661268
+postgresql_cluster,Average count of other files in 10%:,1.6875
+postgresql_cluster,Standard deviation of other files in 10%:,2.27805095
+postgresql_cluster,Average count of iac files in 10%:,3.046875
+postgresql_cluster,Standard deviation of iac files in 10%:,5.550431665
+postgresql_cluster,Number of IaC commits:,321
+postgresql_cluster,number of iac files in last project version:,107
+postgresql_cluster,number of non-iac files in last project version:,127
+postgresql_cluster,Percentage of outliers out of all data points:,0.31152648
+postgresql_cluster,Percentage of outliers greater than 15 out of all outliers:,4.672897196
+postgresql_cluster,Average number of files per commit in IaC commits,5.22741433
+postgresql_cluster,Standard deviation of files per commit in IaC commits,10.486658
+postgresql_cluster,IaC files change in % of commits,37.5
+postgresql_cluster,Standard deviation of files per commit in Non-IaC commits:,2.481814403
+postgresql_cluster,Average number of files per commit in Non-IaC commits:,1.78342246

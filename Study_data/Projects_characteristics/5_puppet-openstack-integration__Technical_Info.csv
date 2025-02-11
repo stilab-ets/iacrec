@@ -1,0 +1,36 @@
+Project,Technical_Info,Value
+,,
+puppet-openstack-integration,Number of stars:,68
+puppet-openstack-integration,Number of forks:,33
+puppet-openstack-integration,Created at:,2015-06-23 19:27
+puppet-openstack-integration,Updated at:,2023-06-20 10:54
+puppet-openstack-integration,Number of open pull requests:,0
+puppet-openstack-integration,Number of closed pull requests:,2
+puppet-openstack-integration,Number of pull requests:,2
+puppet-openstack-integration,Number of contributors:,65
+puppet-openstack-integration,Number of developers (excluding bots):,65
+puppet-openstack-integration,number of commits:,2764
+puppet-openstack-integration,Number of puppet files in all commits history:,55
+puppet-openstack-integration,Number of other files in all commits history:,56
+puppet-openstack-integration,Average number of files per commit in 90%:,2.948212084
+puppet-openstack-integration,Standard deviation of files per commit in 90%:,2.822708818
+puppet-openstack-integration,Average number of files per commit in 10%:,4.111111111
+puppet-openstack-integration,Standard deviation of files per commit in 10%:,5.959497084
+puppet-openstack-integration,Average count of other files in 90%:,0.258939581
+puppet-openstack-integration,Standard deviation of other files in 90%:,0.888626828
+puppet-openstack-integration,Average count of iac files in 90%:,0.974106042
+puppet-openstack-integration,Standard deviation of iac files in 90%:,2.06568755
+puppet-openstack-integration,Average count of other files in 10%:,0.366666667
+puppet-openstack-integration,Standard deviation of other files in 10%:,1.433546713
+puppet-openstack-integration,Average count of iac files in 10%:,1.555555556
+puppet-openstack-integration,Standard deviation of iac files in 10%:,4.401906928
+puppet-openstack-integration,Number of IaC commits:,901
+puppet-openstack-integration,number of iac files in last project version:,51
+puppet-openstack-integration,number of non-iac files in last project version:,52
+puppet-openstack-integration,Percentage of outliers out of all data points:,0.110987791
+puppet-openstack-integration,Percentage of outliers greater than 15 out of all outliers:,1.553829079
+puppet-openstack-integration,Average number of files per commit in IaC commits,3.064372919
+puppet-openstack-integration,Standard deviation of files per commit in IaC commits,3.287056497
+puppet-openstack-integration,IaC files change in % of commits,32.59768452
+puppet-openstack-integration,Standard deviation of files per commit in Non-IaC commits:,0.97484782
+puppet-openstack-integration,Average number of files per commit in Non-IaC commits:,1.352009744

@@ -1,0 +1,36 @@
+Project,Technical_Info,Value
+,,
+puppet-prometheus,Number of stars:,58
+puppet-prometheus,Number of forks:,230
+puppet-prometheus,Created at:,2016-02-29 15:20
+puppet-prometheus,Updated at:,2023-03-28 11:49
+puppet-prometheus,Number of open pull requests:,28
+puppet-prometheus,Number of closed pull requests:,505
+puppet-prometheus,Number of pull requests:,533
+puppet-prometheus,Number of contributors:,114
+puppet-prometheus,Number of developers (excluding bots):,115
+puppet-prometheus,number of commits:,1255
+puppet-prometheus,Number of puppet files in all commits history:,65
+puppet-prometheus,Number of other files in all commits history:,208
+puppet-prometheus,Average number of files per commit in 90%:,4.803278689
+puppet-prometheus,Standard deviation of files per commit in 90%:,6.629497401
+puppet-prometheus,Average number of files per commit in 10%:,7.951219512
+puppet-prometheus,Standard deviation of files per commit in 10%:,11.63389707
+puppet-prometheus,Average count of other files in 90%:,1.117486339
+puppet-prometheus,Standard deviation of other files in 90%:,3.425907774
+puppet-prometheus,Average count of iac files in 90%:,1.901639344
+puppet-prometheus,Standard deviation of iac files in 90%:,4.526698128
+puppet-prometheus,Average count of other files in 10%:,1.146341463
+puppet-prometheus,Standard deviation of other files in 10%:,1.152409988
+puppet-prometheus,Average count of iac files in 10%:,3.475609756
+puppet-prometheus,Standard deviation of iac files in 10%:,8.578217619
+puppet-prometheus,Number of IaC commits:,407
+puppet-prometheus,number of iac files in last project version:,57
+puppet-prometheus,number of non-iac files in last project version:,157
+puppet-prometheus,Percentage of outliers out of all data points:,0.245700246
+puppet-prometheus,Percentage of outliers greater than 15 out of all outliers:,6.87960688
+puppet-prometheus,Average number of files per commit in IaC commits,5.12039312
+puppet-prometheus,Standard deviation of files per commit in IaC commits,7.331204099
+puppet-prometheus,IaC files change in % of commits,32.43027888
+puppet-prometheus,Standard deviation of files per commit in Non-IaC commits:,4.662250419
+puppet-prometheus,Average number of files per commit in Non-IaC commits:,2.147668394

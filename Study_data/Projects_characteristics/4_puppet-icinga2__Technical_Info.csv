@@ -1,0 +1,36 @@
+Project,Technical_Info,Value
+,,
+puppet-icinga2,Number of stars:,62
+puppet-icinga2,Number of forks:,97
+puppet-icinga2,Created at:,2016-09-06 10:49
+puppet-icinga2,Updated at:,2023-03-06 09:14
+puppet-icinga2,Number of open pull requests:,0
+puppet-icinga2,Number of closed pull requests:,208
+puppet-icinga2,Number of pull requests:,208
+puppet-icinga2,Number of contributors:,42
+puppet-icinga2,Number of developers (excluding bots):,42
+puppet-icinga2,number of commits:,1357
+puppet-icinga2,Number of puppet files in all commits history:,128
+puppet-icinga2,Number of other files in all commits history:,222
+puppet-icinga2,Average number of files per commit in 90%:,5.150090416
+puppet-icinga2,Standard deviation of files per commit in 90%:,9.691859584
+puppet-icinga2,Average number of files per commit in 10%:,7.774193548
+puppet-icinga2,Standard deviation of files per commit in 10%:,10.14068151
+puppet-icinga2,Average count of other files in 90%:,1.184448463
+puppet-icinga2,Standard deviation of other files in 90%:,4.410787636
+puppet-icinga2,Average count of iac files in 90%:,2.075045208
+puppet-icinga2,Standard deviation of iac files in 90%:,5.932865076
+puppet-icinga2,Average count of other files in 10%:,1.967741935
+puppet-icinga2,Standard deviation of other files in 10%:,4.128937234
+puppet-icinga2,Average count of iac files in 10%:,3.387096774
+puppet-icinga2,Standard deviation of iac files in 10%:,6.312601512
+puppet-icinga2,Number of IaC commits:,615
+puppet-icinga2,number of iac files in last project version:,89
+puppet-icinga2,number of non-iac files in last project version:,87
+puppet-icinga2,Percentage of outliers out of all data points:,0.162601626
+puppet-icinga2,Percentage of outliers greater than 15 out of all outliers:,6.178861789
+puppet-icinga2,Average number of files per commit in IaC commits,5.414634146
+puppet-icinga2,Standard deviation of files per commit in IaC commits,9.761593649
+puppet-icinga2,IaC files change in % of commits,45.32056006
+puppet-icinga2,Standard deviation of files per commit in Non-IaC commits:,4.348275713
+puppet-icinga2,Average number of files per commit in Non-IaC commits:,2.027439024

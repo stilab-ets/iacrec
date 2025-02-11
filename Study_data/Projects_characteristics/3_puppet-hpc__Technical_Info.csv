@@ -1,0 +1,36 @@
+Project,Technical_Info,Value
+,,
+puppet-hpc,Number of stars:,11
+puppet-hpc,Number of forks:,3
+puppet-hpc,Created at:,2016-03-04 14:56
+puppet-hpc,Updated at:,2022-10-14 11:39
+puppet-hpc,Number of open pull requests:,1
+puppet-hpc,Number of closed pull requests:,0
+puppet-hpc,Number of pull requests:,1
+puppet-hpc,Number of contributors:,7
+puppet-hpc,Number of developers (excluding bots):,7
+puppet-hpc,number of commits:,1628
+puppet-hpc,Number of puppet files in all commits history:,1175
+puppet-hpc,Number of other files in all commits history:,2044
+puppet-hpc,Average number of files per commit in 90%:,7.538696538
+puppet-hpc,Standard deviation of files per commit in 90%:,48.0739113
+puppet-hpc,Average number of files per commit in 10%:,2.990909091
+puppet-hpc,Standard deviation of files per commit in 10%:,1.455741272
+puppet-hpc,Average count of other files in 90%:,3.017311609
+puppet-hpc,Standard deviation of other files in 90%:,37.84943488
+puppet-hpc,Average count of iac files in 90%:,3.269348269
+puppet-hpc,Standard deviation of iac files in 90%:,29.24464687
+puppet-hpc,Average count of other files in 10%:,0.118181818
+puppet-hpc,Standard deviation of other files in 10%:,0.422570078
+puppet-hpc,Average count of iac files in 10%:,0.995454545
+puppet-hpc,Standard deviation of iac files in 10%:,1.305057697
+puppet-hpc,Number of IaC commits:,1092
+puppet-hpc,number of iac files in last project version:,673
+puppet-hpc,number of non-iac files in last project version:,274
+puppet-hpc,Percentage of outliers out of all data points:,0.091575092
+puppet-hpc,Percentage of outliers greater than 15 out of all outliers:,2.289377289
+puppet-hpc,Average number of files per commit in IaC commits,7.080586081
+puppet-hpc,Standard deviation of files per commit in IaC commits,45.60889517
+puppet-hpc,IaC files change in % of commits,67.07616708
+puppet-hpc,Standard deviation of files per commit in Non-IaC commits:,7.695037941
+puppet-hpc,Average number of files per commit in Non-IaC commits:,2.267665953
