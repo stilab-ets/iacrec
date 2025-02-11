@@ -1,7 +1,0 @@
-Row,Avg_Perf_all_instances,Std_Perf_all_instances,Probability_of_good,Avg_Perf_selected_instances,Std_Perf_selected_instances,CV_model_accuracy,CV_model_precision,CV_model_recall,BoxConstraint,KernelScale
-GA,0.484,0.379,0.58,0.578,0.383,69.1,69.4,83.4,1.895,0.331
-PSO,0.395,0.355,0.506,0.539,0.378,67.5,67.1,70.1,7.774,1.133
-RS,0.359,0.338,0.461,0.558,0.341,75.7,74.3,72.1,1.884,0.187
-SA,0.315,0.334,0.386,0.604,0.303,84.1,82.1,75,2.253,0.062
-Oracle,0.624,0.328,1,,,,,,,
-Selector,0.478,0.33,0.647,0.539,0.325,,74.1,48.1,,

@@ -1,5 +1,0 @@
-Row,Area_Good_Normalized,Density_Good_Normalized,Purity_Good,Area_Best_Normalized,Density_Best_Normalized,Purity_Best
-GA,0.574,1.122,0.944,0.036,1.611,0.842
-PSO,0.373,1.266,0.989,0.001,3.613,1
-RS,0.263,1.659,0.917,0.079,2.008,0.915
-SA,0.201,1.744,0.675,0.124,2.265,0.761
